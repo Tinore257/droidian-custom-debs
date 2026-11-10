@@ -2,7 +2,7 @@
 
 ### How to use
 
-You will need to publish github releases in your deb repositories to serve deb package files to be downloaded from. For example, [ArchieMeng/box64](https://github.com/ArchieMeng/box64)
+You will need to publish github releases in your deb repositories to serve deb package files to be downloaded from. For example, [Tinore257/box64](https://github.com/Tinore257/box64)
 
 And then, you need to configure this repository with the following steps:
 
