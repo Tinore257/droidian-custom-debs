@@ -55,7 +55,7 @@ jobs:
           codename: ${{ env.CODENAME }}
           components: ${{ env.COMPONENTS }}
           architectures: ${{ env.ARCHITECTURES }}
-          import-from-repo-url: "https://tinore257.github.io/custom-debs"
+          import-from-repo-url: "https://tinore257.github.io/droidian-custom-debs"
 
 
       - name: Upload Pages artifact
